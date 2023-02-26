@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:title="Para Yükle"
+        android:id="@+id/addMoneyFragment"
+        android:icon="@drawable/card_add_svgrepo_com"/>
+    <item
+        android:title="Kart"
+        android:id="@+id/cardFragment"
+        android:icon="@drawable/card_svgrepo_com"/>
+    <item
+        android:title="Para Gönder"
+        android:id="@+id/sendMoneyFragment"
+        android:icon="@drawable/send_svgrepo_com"/>
+    <item
+        android:title="Ayarlar"
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+</menu>
